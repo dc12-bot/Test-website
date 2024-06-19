@@ -1,0 +1,36 @@
+body{
+
+    background: linear-gradient( purple, blue, orange);
+ background-image: url("images/Scenery.webp");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+
+ }
+
+ .def{
+
+    color: black;
+ background-color:(255,255,255,0.5);
+ }
+
+
+h4 {
+    font-size: 24px; /* Adjusted from 2.0cm to a standard pixel unit */
+    color: orangered;
+}
+
+video  {
+
+   background-position-y: left;
+   background-position: left;
+   margin-left: 0px;
+}
+
+p{
+
+    display: grid;
+    place-items: center;
+    height: 100vh; /* or any specific height */
+}
